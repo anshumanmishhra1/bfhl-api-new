@@ -6,7 +6,7 @@ const router = express.Router();
 
 app.use(express.json());
 
-const full_name = "anshuman_29072025"; // your name in lowercase + ddmmyyyy
+const full_name = "anshuman_29072025";
 const email = "anshuman1312.be22@chitkara.edu.com.in";
 const roll_number = "ABCD123";
 
